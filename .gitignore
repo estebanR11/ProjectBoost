@@ -35,3 +35,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Materials/GreenNebula.dds.meta
+Assets/Materials/GreenNebula.dds
